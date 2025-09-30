@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on S.T.R.E.A.M<br><br>🌱 I’m currently learning ReactJS, Machine Learning, Database Management<br><br>👨‍💻 All of my projects are available at https://github.com/JericoGatpandan<br><br>💬 Ask me about react, html, css, javascript, node.js, and java<br><br>📫 How to reach me jericogatpandan0905@gmail.com
+🔭 I’m currently working on S.T.R.E.A.M<br><br>🌱 I’m currently learning ReactJS, Machine Learning, Database Management<br><br>👨‍💻 All of my projects are available at https://github.com/JericoGatpandan?tab=repositories<br><br>💬 Ask me about react, html, css, javascript, node.js, and java<br><br>📫 How to reach me jericogatpandan0905@gmail.com
 
 
 ## 🌐 Socials:
