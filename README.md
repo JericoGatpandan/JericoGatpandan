@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jericogatpandan" alt="jericogatpandan" /></a> </p>
 
-- 🔭 I’m currently working on [S.T.R.E.A.M - AI-Forecasting System](https://stream-ai-forecasting-system.vercel.app/) and .[CHT Travel and Tours Management System](https://github.com/JericoGatpandan/CHT-Travel-and-Tours-Management-System)
+- 🔭 I’m currently working on [S.T.R.E.A.M - AI-Forecasting System](https://stream-ai-forecasting-system.vercel.app/) and [CHT Travel and Tours Management System](https://github.com/JericoGatpandan/CHT-Travel-and-Tours-Management-System)
 
 - 🌱 I’m currently learning **Machine Learning, Data Science, MERN stack**
 
