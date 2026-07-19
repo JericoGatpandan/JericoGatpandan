@@ -14,7 +14,7 @@
 
 - 🌐 Check out my **[Portfolio Website](https://jerico-portfolio-chi.vercel.app/)** to see my projects, expertise, and chat with my AI assistant.
 
-- 🔭 I’m currently working on the **Automated System of Agriculture Cooperatives **[ASAC - Automated-System-of-Agriculture-Cooperatives](https://salmon-ibis-469171.hostingersite.com/)**, **[S.T.R.E.A.M - AI-Forecasting System](https://stream-ai-forecasting-system.vercel.app/)**, and the **[CHT Travel and Tours Management System](https://github.com/JericoGatpandan/CHT-Travel-and-Tours-Management-System)**.
+- 🔭 I’m currently working on the **Automated System of Agriculture Cooperatives **[ASAC - Automated-System-of-Agriculture-Cooperatives](https://mistyrose-jackal-695789.hostingersite.com/)**, **[S.T.R.E.A.M - AI-Forecasting System](https://stream-ai-forecasting-system.vercel.app/)**, and the **[CHT Travel and Tours Management System](https://github.com/JericoGatpandan/CHT-Travel-and-Tours-Management-System)**.
 - 🌱 I’m currently learning **Machine Learning, Data Science, & the MERN Stack**.
 - 💬 Ask me about **Java, PHP, Relational Databases (MySQL/PostgreSQL), and Linux**.
 - 📫 Reach out to me: **[jericogatpandan0905@gmail.com](mailto:jericogatpandan0905@gmail.com)**
