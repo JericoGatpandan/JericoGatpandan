@@ -17,7 +17,7 @@
 - 🔭 I'm currently working on:
   - **[ASAC - Automated System of Agriculture Cooperatives](https://asac.dabaforge.com)**
   - **[S.T.R.E.A.M - AI-Forecasting System](https://stream-ai-forecasting-system.vercel.app/)**
-  - **[ServiceBai](https://servicebai.com)** — Lead Developer, handling backend development, issue management, and frontend & backend implementation
+  - **[ServiceBai](https://servicebai.com)** — Lead Developer, handling backend development, issue management, and frontend & backend integration
   - **[DabaForge](https://dabaforge.com)** — Founder & Lead Engineer
 
 - 🌱 I'm currently learning **Machine Learning, Data Science, & the MERN Stack**.
